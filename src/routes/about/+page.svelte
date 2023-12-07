@@ -17,11 +17,11 @@
 			allowfullscreen
 		></iframe>
 		<p>
-			Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-			labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-			laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-			voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
-			non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+			Welcome to TechHub Creations, a cutting-edge tech company dedicated to fostering a vibrant
+			global community of content creators. At TechHub, we believe in the power of creativity and
+			the impact it can have on the world. Our primary mission is to provide a dynamic platform that
+			not only empowers content creators but also connects them with like-minded individuals across
+			the globe.
 		</p>
 	</section>
 	<section>
