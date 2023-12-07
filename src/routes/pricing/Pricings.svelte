@@ -115,7 +115,7 @@
 	}
 	.purple button,
 	.purple .badge {
-		color: rgb(244, 174, 255);
+		color: white;
 		background-color: rgb(134, 61, 167);
 	}
 
