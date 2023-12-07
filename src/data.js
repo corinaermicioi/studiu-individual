@@ -18,34 +18,6 @@ export const links =
         }
     ]
 
-// get rid of this later and add more to the array below
-const temporary_more_creators = [
-    {
-        src: 'content-creator-1.svg',
-        name: 'Christina Brown',
-    },
-    {
-        src: 'content-creator-2.svg',
-        name: 'Marian Birley',
-    },
-    {
-        src: 'content-creator-3.svg',
-        name: 'Mary Lilith'
-    },
-    {
-        src: 'content-creator-4.svg',
-        name: 'Blake Raven'
-    },
-    {
-        src: 'content-creator-5.svg',
-        name: 'Cary Liverson'
-    },
-    {
-        src: 'content-creator-6.svg',
-        name: 'Ella Amelia'
-    }
-]
-
 export const creators =
     [
         {
@@ -72,7 +44,30 @@ export const creators =
             src: 'content-creator-6.svg',
             name: 'Ella Amelia'
         },
-        ...temporary_more_creators
+        {
+            src: 'content-creator-1.svg',
+            name: 'Christina Brown',
+        },
+        {
+            src: 'content-creator-2.svg',
+            name: 'Marian Birley',
+        },
+        {
+            src: 'content-creator-3.svg',
+            name: 'Mary Lilith'
+        },
+        {
+            src: 'content-creator-4.svg',
+            name: 'Blake Raven'
+        },
+        {
+            src: 'content-creator-5.svg',
+            name: 'Cary Liverson'
+        },
+        {
+            src: 'content-creator-6.svg',
+            name: 'Ella Amelia'
+        }
     ]
 
 export const pricings = [
