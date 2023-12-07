@@ -21,7 +21,11 @@
 			global community of content creators. At TechHub, we believe in the power of creativity and
 			the impact it can have on the world. Our primary mission is to provide a dynamic platform that
 			not only empowers content creators but also connects them with like-minded individuals across
-			the globe.
+			the globe. <br><br>
+			At the heart of TechHub Creations is our state-of-the-art platform designed to
+			cater to the diverse needs of content creators. Whether you're a seasoned professional or a
+			budding artist, our platform offers a suite of tools and features that facilitate content
+			creation across various mediums, including video, audio, written, and visual arts.
 		</p>
 	</section>
 	<section>
